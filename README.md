@@ -12,3 +12,5 @@ dan ketika selesai, anda dapat mengunakan command dibawah ini untuk menjalankan 
 ```
 npm start
 ```
+## Cara Kerja
+![Test Image 1](3DTest.png)
